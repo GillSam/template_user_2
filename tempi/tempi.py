@@ -16,6 +16,10 @@ def say_hello_command(client, args):
     pass
 
 
+def say_goodbye_command(client, args):
+    pass
+
+
 def main():
     pass
 
